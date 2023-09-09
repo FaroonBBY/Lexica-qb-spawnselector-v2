@@ -1,9 +1,3 @@
-qb-spawnselector from Lexica
-
-no pixel style image
-
-video : https://youtu.be/StJIssaWN5w
-
 how to add it :
 
 one go to qb-apartments client/main.lua
